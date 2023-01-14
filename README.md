@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 
 Free Quotes:
 
-"Code a day, keep evils away"
-"There is no day and night in the timeline, only a day with conflicts/ day with no conflicts"
-"Always work with heart! Everyone has got brain, only few can work with heart and brain"
-"Set high standard for your work! Then you have to work to satisfy only yourself"
+- "Code a day, keep evils away"
+- "There is no day and night in the timeline, only a day with conflicts/ day with no conflicts"
+- "Always work with heart! Everyone has got brain, only few can work with heart and brain"
+- "Set high standard for your work! Then you have to work to satisfy only yourself"
 
 
