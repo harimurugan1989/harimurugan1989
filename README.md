@@ -16,4 +16,3 @@ Here are some ideas to get you started:
 
 [![Hari’s github stats](https://github-readme-stats.vercel.app/api?username=harimurugan1989)](https://github.com/harimurugan1989)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harimurugan1989&layout=compact)](https://github.com/harimurugan1989)
