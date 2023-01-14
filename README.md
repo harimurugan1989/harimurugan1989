@@ -16,3 +16,11 @@ Here are some ideas to get you started:
 
 [![Hari’s github stats](https://github-readme-stats.vercel.app/api?username=harimurugan1989)](https://github.com/harimurugan1989)
 
+Free Quotes:
+
+"Code a day, keep evils away"
+"There is no day and night in the timeline, only a day with conflicts/ day with no conflicts"
+"Always work with heart! Everyone has got brain, only few can work with heart and brain"
+"Set high standard for your work! Then you have to work to satisfy only yourself"
+
+
