@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡  Looking to collaborate on developmental projects which can make life easier!
 - 💬 Received POSCO Power System Award for my doctoral thesis!
 - 📫  Reach me at harimurugan@nitj.ac.in, harimur@gmail.com
-<!--
+
 TimeLine:
 - May 2019 : Received Ph.D 
 - Dec 2019 : Left PES Joined NITJ
@@ -25,7 +25,7 @@ TimeLine:
 Targets:
 - Sep 2023 : Re-launch aim2crack quiz module
 - Jun 2024 : Safebook module (Secure way to share the materials among students)
-- Dec 2024 : Contest module (Conduct coding contest in a mini groups with tracking) -->
+- Dec 2024 : Contest module (Conduct coding contest in a mini groups with tracking)
 
 Free Quotes:
 
