@@ -22,6 +22,7 @@ TimeLine:
 - Sep 2021 : Lauched aim2crack.in with Quizzing module (Cheat-Proof platform for conducting quiz)
 - Dec 2022 : Lauched assignment module at aim2crack.in (Individual assignments with random numbers)
 - Jun 2023 : Moving aim2crack from Django & Html to nodejs and react! (Credits to ChatGPT and Brad!)
+
 Targets:
 - Sep 2023 : Re-launch aim2crack quiz module
 - Jun 2024 : Safebook module (Secure way to share the materials among students)
