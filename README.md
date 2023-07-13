@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 🌱 Currently teaching Introduction to Machine Learning to Under Graduate Students.
 - 😄 My research students are working on Machine learning Applications on Condition Monitoring of Transformers and Cables
 - ⚡  Looking to collaborate on developmental projects which can make life easier!
-- 💬 Received POSCO Power System Award for my doctoral thesis!
+- 💬 Received POSCO Power System Award for my doctoral thesis! (One among the Top 15 Doctoral Thesis at National Level)
 - 📫  Reach me at harimurugan@nitj.ac.in, harimur@gmail.com
 
 TimeLine:
