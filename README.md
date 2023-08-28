@@ -15,18 +15,7 @@ Here are some ideas to get you started:
 - 💬 Received POSCO Power System Award for my doctoral thesis! (One among the Top 15 Doctoral Thesis at National Level)
 - 📫  Reach me at harimurugan@nitj.ac.in, harimur@gmail.com
 
-TimeLine:
-- May 2019 : Received Ph.D 
-- Dec 2019 : Left PES Joined NITJ
-- Aug 2020 : Lost Freedom! Become a responsible family man!
-- Sep 2021 : Lauched aim2crack.in with Quizzing module (Cheat-Proof platform for conducting quiz)
-- Dec 2022 : Lauched assignment module at aim2crack.in (Individual assignments with random numbers)
-- Jun 2023 : Moving aim2crack from Django & Html to nodejs and react! (Credits to ChatGPT and Brad!)
 
-Targets:
-- Sep 2023 : Re-launch aim2crack quiz module
-- Jun 2024 : Safebook module (Secure way to share the materials among students)
-- Dec 2024 : Contest module (Conduct coding contest in a mini groups with tracking)
 
 Free Quotes:
 
