@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 My research students are working on Machine learning Applications on Condition Monitoring of Transformers and Cables
 - ⚡  Looking to collaborate on developmental projects which can make life easier!
 - 💬 Received POSCO Power System Award for my doctoral thesis! (One among the Top 15 Doctoral Thesis at National Level)
-- 💬 Received Outstanding contribution award for the development and deployment of online generation of NITJ institute timetable (xceed.nitj.ac.in/timetable) 
+- 💬 Received Outstanding contribution award for the development and deployment of online generation of NITJ institute timetable (https://xceed.nitj.ac.in/timetable) 
 - 📫  Reach me at harimurugan@nitj.ac.in, harimur@gmail.com
 
 
