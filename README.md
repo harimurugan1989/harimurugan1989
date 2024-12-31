@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 -->
 - 🔭 Doctrate in Electrical Engineering with passion to teach!
 - ✨ Assistant Professor (Grade-I) at Dr. B. R. Ambedkar National Institute of Technology, Jalandhar
-- 👯 Full stack developer at www.aim2crack.in with zeal to learn!
+- 👯 Full stack developer at xceed.nitj.ac.in with zeal to learn!
 - ⚡  Team Lead for the new institute website https://nitj.ac.in/
 - 🌱 Currently teaching Introduction to Machine Learning to Under Graduate Students.
 - 😄 My research students are working on Machine learning Applications on Condition Monitoring of Transformers and Cables
