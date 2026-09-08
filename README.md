@@ -6,12 +6,13 @@
 Here are some ideas to get you started:
 -->
 - 🔭 Doctrate in Electrical Engineering with passion to teach!
-- ✨ Assistant Professor (Grade-I) at Dr. B. R. Ambedkar National Institute of Technology, Jalandhar 
-- Associate Editor of IEEE Transactions on Instrumentation and Measurement
+- ✨ Assistant Professor (Grade-I) at Dr. B. R. Ambedkar National Institute of Technology, Jalandhar
+- ✨ Associate Dean - II (Planning & Development) at Dr. B. R. Ambedkar National Institute of Technology, Jalandhar
+- ✨ Associate Editor of IEEE Transactions on Instrumentation and Measurement
 - 👯 Full stack developer at xceed.nitj.ac.in with zeal to learn!
 - ⚡  Team Lead for the new institute website https://nitj.ac.in/
-- 🌱 Currently teaching Introduction to Machine Learning to Under Graduate Students.
-- 😄 My research students are working on Machine learning Applications on Condition Monitoring of Transformers and Cables
+- 🌱 Teaching "Introduction to Machine Learning" & "Deep Learning" to Under Graduate Students.
+- 😄 My research students are working on Deep learning Applications on Condition Monitoring of Transformers and Cables
 - ⚡  Looking to collaborate on developmental projects which can make life easier!
 - 💬 Received POSCO Power System Award for my doctoral thesis! (One among the Top 15 Doctoral Thesis at National Level)
 - 💬 Received Outstanding contribution award for the development and deployment of online generation of NITJ institute timetable (https://xceed.nitj.ac.in/timetable) 
