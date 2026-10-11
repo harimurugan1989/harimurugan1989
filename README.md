@@ -6,17 +6,17 @@
 Here are some ideas to get you started:
 -->
 - 🔭 Doctrate in Electrical Engineering with passion to teach!
-- ✨ Assistant Professor (Grade-I) at Dr. B. R. Ambedkar National Institute of Technology, Jalandhar
-- ✨ Associate Dean - II (Planning & Development) at Dr. B. R. Ambedkar National Institute of Technology, Jalandhar
+- ✨ Associate Professor at Dr. B. R. Ambedkar National Institute of Technology Jalandhar
+- ✨ Associate Dean - II (Planning & Development) at Dr. B. R. Ambedkar National Institute of Technology Jalandhar
 - ✨ Associate Editor of IEEE Transactions on Instrumentation and Measurement
 - 👯 Full stack developer at xceed.nitj.ac.in with zeal to learn!
 - ⚡  Team Lead for the new institute website https://nitj.ac.in/
 - 🌱 Teaching "Introduction to Machine Learning" & "Deep Learning" to Under Graduate Students.
 - 😄 My research students are working on Deep learning Applications on Condition Monitoring of Transformers and Cables
-- ⚡  Looking to collaborate on developmental projects which can make life easier!
+- ⚡ Deployed iLEED - A facial recognition-based attendance system at NIT Jalandhar (running in 14 classes currently); Deployed XCEED-Learning - A inhouse Learning Management System at NIT Jaladhar (Used across the institute); Looking to collaborate on developmental projects which can make life easier!
 - 💬 Received POSCO Power System Award for my doctoral thesis! (One among the Top 15 Doctoral Thesis at National Level)
-- 💬 Received Outstanding contribution award for the development and deployment of online generation of NITJ institute timetable (https://xceed.nitj.ac.in/timetable) 
-- Received ANRF-ARG grant of 87 lakhs for development of neuromorphic system for condition monitoring of cables
+- 💬 Received Outstanding contribution award for the development and deployment of online generation of NITJ institute timetable (https://xceed.nitj.ac.in/timetable)
+- Received ANRF-ARG grant of 82 lakhs for development of neuromorphic system for condition monitoring of cables
 - 📫  Reach me at harimurugan@nitj.ac.in, harimur@gmail.com
 
 
